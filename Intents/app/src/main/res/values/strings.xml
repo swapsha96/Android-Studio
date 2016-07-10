@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents - Send Data</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="title_activity_next">NextActivity</string>
+</resources>
